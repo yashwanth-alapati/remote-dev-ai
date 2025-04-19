@@ -46,3 +46,9 @@ The GitHub MCP server was open‑sourced only weeks before the hackathon, with m
 ### 2. Context Management
 Ensuring AI‑generated code aligns with each repo’s conventions demanded a dynamic context loader that fetches README, lint rules, and recent commits before each generation.(IN PROGRESS)
 
+## TEAM: remote-dev-ai
+- Yashwanth Alapati
+- Rajath Reghunath
+- Manan Prakashkumar Patel
+- Ritvik Vasantha Kumar
+
