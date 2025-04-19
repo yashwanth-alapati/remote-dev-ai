@@ -49,7 +49,7 @@ The GitHub MCP server was open‑sourced only weeks before the hackathon, with m
 Ensuring AI‑generated code aligns with each repo’s conventions demanded a dynamic context loader that fetches README, lint rules, and recent commits before each generation.(IN PROGRESS)
 
 
-##LINK TO TEST OUR APP :
+## TEST OUR APP:
 - https://v0-remote-dev-ai.vercel.app/
 ## TEAM: remote-dev-ai
 - Yashwanth Alapati
