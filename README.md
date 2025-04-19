@@ -52,6 +52,9 @@ Ensuring AI‑generated code aligns with each repo’s conventions demanded a dy
 ## TEST OUR APP:
 - https://v0-remote-dev-ai.vercel.app/
 
+## DEMO VIDEO:
+https://www.youtube.com/watch?v=NuIrfwuBzAU
+
 ## TEAM: remote-dev-ai
 - Yashwanth Alapati
 - Rajath Reghunath
