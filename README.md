@@ -22,7 +22,9 @@ This model targets the 75% of developer time spent on non‑coding, repetitive t
 - Lambda invokes the MCP server to fetch issue data and pipeline it into the Backend AI engine  
 
 ### AI Code Generation
-- Anthropic accessed via secured API keys  
+- Anthropic accessed via secured API keys
+### Front-end
+- Vercel Platform
 
 
 ## Project Impact and Importance
@@ -46,6 +48,9 @@ The GitHub MCP server was open‑sourced only weeks before the hackathon, with m
 ### 2. Context Management
 Ensuring AI‑generated code aligns with each repo’s conventions demanded a dynamic context loader that fetches README, lint rules, and recent commits before each generation.(IN PROGRESS)
 
+
+##LINK TO TEST OUR APP :
+- https://v0-remote-dev-ai.vercel.app/
 ## TEAM: remote-dev-ai
 - Yashwanth Alapati
 - Rajath Reghunath
