@@ -51,9 +51,14 @@ Ensuring AI‑generated code aligns with each repo’s conventions demanded a dy
 
 ## TEST OUR APP:
 - https://v0-remote-dev-ai.vercel.app/
+
 ## TEAM: remote-dev-ai
 - Yashwanth Alapati
 - Rajath Reghunath
 - Manan Prakashkumar Patel
 - Ritvik Vasantha Kumar
+
+
+## REFERENCES:
+- Our front end code by vercel: https://github.com/rrgodhorus/hofhacks-remote-dev-ai-home
 
